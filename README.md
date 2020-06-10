@@ -34,12 +34,12 @@ Listas são conjuntos de elementos, objetos, variáveis, tarefas, ou qualquer co
 Implementação: 
 Listas em Arrays e Encadedas, Duplamente Encadeadas
 
-Arrays: cada elemento da lista deve ser colocado em uma posição no array
-        Ao inserir ou excluir um elemento, talvez seja necessário realocar todos os demais elementos
+**Arrays:** cada elemento da lista deve ser colocado em uma posição no array
+            Ao inserir ou excluir um elemento, talvez seja necessário realocar todos os demais elementos
 
-Encadeadas: Cada nó ou elemento de uma lista encadeada irá possuir o valor do nó e o endereço do próximo nó. Em uma lista encadeada                 linear o ultimo elemento aponta para NULL .
+**Encadeadas:** Cada nó ou elemento de uma lista encadeada irá possuir o valor do nó e o endereço do próximo nó. Em uma lista encadeada                 linear o ultimo elemento aponta para NULL .
 
-Duplamente Encadeadas: uma estrutura de dados ligada que consiste de um conjunto de registros sequencialmente ligados chamados de nós e                       é uma extensão da lista simplesmente ligada
+**Duplamente Encadeadas:** uma estrutura de dados ligada que consiste de um conjunto de registros sequencialmente ligados chamados de                              nós e é uma extensão da lista simplesmente ligada
 
 # Memória
 ### Conceito:
